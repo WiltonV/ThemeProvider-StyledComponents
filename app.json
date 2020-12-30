@@ -1,0 +1,12 @@
+{
+  "name": "ThemeProvider-StyledComponents",
+  "displayName": "ThemeProvider-StyledComponents",
+  "expo": {
+    "name": "ThemeProvider-StyledComponents",
+    "slug": "ThemeProvider-StyledComponents",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
